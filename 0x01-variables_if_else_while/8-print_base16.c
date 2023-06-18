@@ -11,7 +11,7 @@ int main(void)
 	int s;
 
 	q = 'a';
-	s = '0';
+	s = 0;
 
 	while (s < 10)
 	{

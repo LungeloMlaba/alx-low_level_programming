@@ -3,8 +3,8 @@
 /**
  * _mul - Multiplies two integers
  * @q: The first num to be multiplied
- * @w: The second num to be multiplied
- * Return: The value of multiplication of int q and int w
+ * @w: The second num to be multiplied with first num
+ * Return: The result of multiplication of parameter q and parameter w
  */
 int _mul(int q, int w)
 {

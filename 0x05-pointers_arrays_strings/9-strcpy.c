@@ -6,7 +6,7 @@
  * @src: Source value
  * Return: the pointer to dest
  */
-char *_strcopy(char *dest, *src)
+char *_strcopy(char *dest, char *src)
 {
 	int a;
 

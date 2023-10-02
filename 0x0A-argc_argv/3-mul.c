@@ -34,4 +34,5 @@ int _atoi(char *s)
 				digit = -digit;
 			n = n * 10 + digit;
 			f = 1;
-			if (s[a +
+			if (s[a + d] == '0')
+				n++;

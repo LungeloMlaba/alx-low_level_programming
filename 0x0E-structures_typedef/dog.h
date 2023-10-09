@@ -1,6 +1,14 @@
 #ifndef _HEADER_
 #define _HEADER_
 
+/**
+ * struct dog - structe of three types
+ * @name: name of dog
+ * @age: current age of dog
+ * @owner: owner of the dog
+ *
+ * Return: nothing
+ */
 struct dog
 {
 	char *name;
